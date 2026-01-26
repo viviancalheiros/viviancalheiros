@@ -9,6 +9,6 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viviancalheiros&layout=compact&langs_count=5&hide=html,css&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viviancalheiros&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viviancalheiros&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viviancalheiros&layout=compact&langs_count=6&theme=dracula"/>
 </p>
