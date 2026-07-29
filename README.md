@@ -1,8 +1,8 @@
 ## Oie! Eu sou a Vívian
 
-👩‍💻 Desenvolvedora front-end em construção  
+👩‍💻 Desenvolvedora full stack em construção  
 🎓 Graduanda em Ciência da Computação  
-🎨 Interesse em UI/UX e Desenvolvimento Web  
+🎨 Interesse em Desenvolvimento Web  
 🚀 Explorando Laravel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADvian-calheiros/)
