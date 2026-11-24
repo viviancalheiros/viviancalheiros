@@ -9,6 +9,5 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viviancalheiros&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viviancalheiros&layout=compact&langs_count=6&theme=dracula"/>
+  <img src="./github-metrics.svg" alt="Estatísticas do GitHub da Vívian" />
 </p>
