@@ -9,5 +9,6 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="./github-metrics.svg" alt="Estatísticas do GitHub da Vívian" />
+  <img height="160em" src="https://github-readme-stats-chi-steel-64.vercel.app/api?username=viviancalheiros&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-chi-steel-64.vercel.app/api/top-langs/?username=viviancalheiros&layout=compact&langs_count=6&theme=dracula"/>
 </p>
